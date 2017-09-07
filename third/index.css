@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+}
+
+.header {
+
+  background-color: #d1cfcf;
+  width: 100vw;
+  height: 12vh;
+  box-sizing: border-box;
+}
+
+.menu-button{
+
+  width: 90px;
+  height: 90px;
+  background-color: #4082DA;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 20px;
+
+
+}
+
+p {
+  margin: 50px 50px 75px 50px;
+  font-size: 25px;
+}
+
+.main-content {
+
+  height: 24vh;
+
+}
+
+.blue-bar {
+
+  width: 100vw;
+  height: 15vh;
+  background-color: #4082DA;
+
+}
+
+.teal-bar {
+
+  width: 100vw;
+  height: 15vh;
+  background-color: #46DFBA;
+
+
+}
+
+.green-bar {
+
+  width: 100vw;
+  height: 15vh;
+  background-color: #AFE57B;
+
+}
+
+.yellow-bar {
+
+  width: 100vw;
+  background-color: #F7E31B;
+  height: 15vh;
+
+}
